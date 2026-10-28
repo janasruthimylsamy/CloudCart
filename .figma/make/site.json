@@ -1,0 +1,10 @@
+{
+  "description": "Shop Indian products, manage orders and wishlists, and explore interactive cloud computing simulations in a responsive e-commerce demo for shoppers and students.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
