@@ -4,8 +4,7 @@ A modern, responsive e-commerce shopping application built using **React, TypeSc
 
 CloudCart provides an interactive online shopping experience where users can explore products, browse categories, manage their shopping cart, and experience a streamlined checkout interface.
 
-🌐 **Live Demo:** https://janasruthimylsamy.github.io/CloudCart/
-
+🌐 **Live Demo:** https://cloud-cart-delta.vercel.app/
 💻 **GitHub Repository:** https://github.com/janasruthimylsamy/CloudCart
 
 ---
